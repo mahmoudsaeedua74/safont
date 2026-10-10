@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Saudi";
+  src: url("https://cdn.jsdelivr.net/gh/mahmoudsaeedua74/safont@main/Saudi/Web%20fonts/WOFF-2-TT/Saudi%20Web/SaudiWeb-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Saudi";
+  src: url("https://cdn.jsdelivr.net/gh/mahmoudsaeedua74/safont@main/Saudi/Web%20fonts/WOFF-2-TT/Saudi%20Web/SaudiWeb-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
